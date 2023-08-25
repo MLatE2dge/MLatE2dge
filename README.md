@@ -18,6 +18,8 @@ $ conda env create -f conda.yaml
 ---
 <br>
 
+The code [ML@E2dge](https://github.com/MLatE2dge/mlate2dge).
+
 ```
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
