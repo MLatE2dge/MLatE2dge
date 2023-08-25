@@ -1,5 +1,9 @@
 # Machine Learning at the Extreme Edge
 
+Today's challenge is real-time and energy-efficient information extraction and processing at the edge using Artificial Intelligence. However, a recent trend exists to implement machine learning on devices located on the extreme edge, i.e. the border between the analog (physical) and digital world. These devices consist of one or more sensors and a resource-constrained embedded device, i.e. a device with limited memory, computing power, and power consumption. Today's challenge is the development of accurate, energy-efficient machine learning models for deployment on these resource-constrained devices. The project ***Machine Learning @ the Extreme Edge*** examines how to apply embedded machine learning to develop accurate, energy-efficient models for intelligent devices.
+
+The code [ML@E2dge](https://github.com/MLatE2dge/mlate2dge).
+
 **Prerequisite:** 
 - [Edge Impulse Studio](https://edgeimpulse.com/)
 - [Weights & Biases platform](https://wandb.ai/)
@@ -15,10 +19,7 @@
 $ conda env create -f conda.yaml
 ```
 
----
 <br>
-
-The code [ML@E2dge](https://github.com/MLatE2dge/mlate2dge).
 
 ```
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
