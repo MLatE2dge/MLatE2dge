@@ -15,7 +15,7 @@ The code: [ML@E2dge](https://github.com/MLatE2dge/mlate2dge)<br>
 
 The Embedded Machine Learning Pipeline is shown below. During the project's timeframe, retraining was performed using Edge Impulse Studio. It is recommended for future implementations to use the [Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) combined with [Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases).
 
-![Pipeline](./img/pipeline.png)
+![Pipeline](/img/pipeline.png)
 
 
 # Environment Setup
