@@ -1,0 +1,18 @@
+path:
+  raw_data: "<path_to_the_raw_data>"
+  processed_data: "<path_to_the_processed_data>"
+parameters:
+  signal_duration: 120
+  delta: 10
+  perc_stride_time: 40
+device_type: ''
+sensor:
+  fs_imu: 128
+  fs_imu_resample: 60
+  range_acc_g: 16
+  range_gyr_deg: 1000
+filter:
+  filter_cutoff: 10
+  filter_order: 2
+gait_event_detection:
+  gait_event_detection_threshold: 0.20
