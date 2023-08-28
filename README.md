@@ -59,7 +59,7 @@ $ conda env create -f conda.yaml
 [🔗 scikit-learn](https://scikit-learn.org/stable/)<br>
 
 ## 📚 Books
-[🔗 AI at the Edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)<br>
+[🔗 AI at the Edge](https://github.com/ai-at-the-edge)<br>
 [🔗 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)<br>
 [🔗 Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
