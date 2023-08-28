@@ -22,7 +22,7 @@ SOFTWARE.
 
 # Embedded Machine Learning Pipeline
 
-The Embedded Machine Learning Pipeline is shown below. During the project's timeframe, retraining was performed using Edge Impulse Studio. It is recommended for future implementations to use the Profiling and Deploy from [Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) combined with [Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases). Some Python scripts, as starting point for the integration, can be found in `./ei/profiling-deploy`.
+The Embedded Machine Learning Pipeline is shown below. During the project's timeframe, retraining was performed using Edge Impulse Studio. It is recommended for future implementations to use the Profiling and Deploy from [Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) combined with [Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases). Some Python scripts, as starting point for the integration, can be found in [`./ei/profiling-deploy`](https://github.com/MLatE2dge/mlate2dge/tree/main/ei/profiling-deploy).
 
 <p align="center">
   <img src="/img/pipeline.png" alt="Pipeline"/>
