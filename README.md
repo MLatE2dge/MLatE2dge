@@ -29,20 +29,23 @@ SOFTWARE.
 **✏️ Note.** During the project's timeframe, retraining was performed using Edge Impulse Studio. In future implementations it is recommended to use the Profiling and Deploy from [🔗 Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) combined with [🔗 Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases), some Python scripts can be found in [🔗 `./ei/profiling-deploy`](https://github.com/MLatE2dge/mlate2dge/tree/main/ei/profiling-deploy). These scripts can be used as a starting point for the integration into the pipeline.
 
 
-# 💻 Environment Setup
+# 💻 Environment
+
+The development was performed on a 64-bit Intel® Core™ i9-10900K CPU (20 cores), 3.70 GHz, 128 GB RAM, and an NVIDIA GeForce RTX3080 GPU type.<br>  
 
 **Prerequisite:**<br><br>
 [🔗 Edge Impulse Studio](https://edgeimpulse.com/)<br>
 [🔗 Weights & Biases platform](https://wandb.ai/)<br>
 
-**Recommended:**<br><br>
-[🔗 Visual Studio Code](https://code.visualstudio.com/)<br>
-
-<br>The developement is done using the Ubuntu OS (Ubuntu 20.04.5 LTS). Create the environment using [🔗 conda](https://docs.conda.io/en/latest/miniconda.html): 
+Create the environment using [🔗 conda](https://docs.conda.io/en/latest/miniconda.html). 
 
 ```
 $ conda env create -f conda.yaml
 ```
+
+**Recommended:**<br><br>
+[🔗 Visual Studio Code](https://code.visualstudio.com/)<br>
+[🔗 Ubuntu 20.04.5 LTS (Focal Fossa)](https://cdimage.ubuntu.com/releases/focal/release/).
 
 # References
 
