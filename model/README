@@ -1,0 +1,7 @@
+# Machine Learning at the Extreme Edge
+
+## TensorFlow Lite model
+
+**Best Practice.** 
+
+Model files should **NOT** be saved on GitHub but in, for example, [Weights and Biases](https://docs.wandb.ai/guides/models) model registry.  However, we added to models to GitHub and provided "AS IS" for your information. We recommend to use [Netron](https://github.com/lutzroeder/netron) to view the neural network model
