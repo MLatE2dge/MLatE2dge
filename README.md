@@ -26,7 +26,8 @@ SOFTWARE.
   <img src="/img/pipeline.png" alt="Pipeline"/>
 </p>
 
- 👉 During the project's timeframe, retraining was performed using Edge Impulse Studio. In future implementations it is recommended to use the Profiling and Deploy from [Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) combined with [Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases), some Python scripts can be found in [`./ei/profiling-deploy`](https://github.com/MLatE2dge/mlate2dge/tree/main/ei/profiling-deploy). These scripts can be used as a starting point for the integration into the pipeline.
+ [!NOTE] 
+ During the project's timeframe, retraining was performed using Edge Impulse Studio. In future implementations it is recommended to use the Profiling and Deploy from [Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) combined with [Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases), some Python scripts can be found in [`./ei/profiling-deploy`](https://github.com/MLatE2dge/mlate2dge/tree/main/ei/profiling-deploy). These scripts can be used as a starting point for the integration into the pipeline.
 
 
 # 💻 Environment Setup
