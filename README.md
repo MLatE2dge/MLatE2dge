@@ -1,4 +1,4 @@
-# 🔬 Machine Learning at the Extreme Edge - ML@E2dge
+# 🔬 Machine Learning at the Extreme Edge - ML@E<sup>2</sup>dge
 
 <p align="center">
   <img src="/img/mlate2dge.png" alt="MLatE2dge, This image was created with the assistance of DALL·E 2." width="300"/>
