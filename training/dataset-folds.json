@@ -1,0 +1,7 @@
+{
+    "fold": {
+        "train_set":  ["<Sub_..>", "<Sub_..>", "<Sub_..>", "<Sub_..>", "<Sub_..>", "<Sub_..>", "<Sub_..>", "<Sub_..>", "<Sub_..>"],
+        "validation_set": ["<Sub_..>", "<Sub_..>", "<Sub_..>"],
+        "test_set": ["<Sub_..>", "<Sub_..>", "<Sub_..>"]
+    }
+}

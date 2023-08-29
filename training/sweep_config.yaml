@@ -1,0 +1,30 @@
+path:
+  project: '</home/user/mlate2dge>'
+  artifacts: '</home/user/data/mlate2dge/artifacts/>' # location of the JSON files. The artifacts are stores local, not on Weights and Biases.
+  fold: '<home/user/mlate2dge/training/dataset-folds.json>' 
+wandb:
+  project_name: <wandb_project_name>
+  save_artifacts: True
+  artifacts: ['dataset-folds.json','helper.py','sweep_config.yaml','sweep.py','sweep.yaml'] 
+dataset:
+  signal_length: 648 # 1.8sec * 60 = 108 => 6*108 = 648, 6 = number of axis
+training_settings:
+  early_stopping: False
+  early_stopping_patience: 10
+  early_stopping_monitor: 'val_loss'
+default:
+  epochs: 1500
+  batch_size: 64
+  lr: 0.00010
+  epsilon: 1e-08
+  beta_1: 0.9
+  beta_2: 0.999
+  conv_1D_layer_1_filter: 16
+  conv_1D_layer_2_filter: 16
+  conv_1D_layer_3_filter: 15
+  conv_1D_layer_1_kernel_size: 5
+  conv_1D_layer_2_kernel_size: 5
+  conv_1D_layer_3_kernel_size: 5
+  dropout_layer_1: 0
+  dense_layer_1_units: 128
+  fold: 'fold'

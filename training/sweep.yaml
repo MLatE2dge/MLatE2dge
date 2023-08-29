@@ -1,0 +1,48 @@
+'method': 'grid'
+'parameters': {
+  'epochs': {
+    'values': [1500]
+  },
+  'batch_size': {
+    'values': [32, 64, 128, 256]
+  },
+  'lr': {
+    'values': [0.001, 0.0001, 0.00001]
+  },
+  'epsilon': {
+    'values': [1e-08]
+  },
+  'beta_1': {
+    'values': [0.9]
+  },
+  'beta_2': {
+    'values': [0.999]
+  },
+  'conv_1D_layer_1_filter': {
+    'values': [16, 32]
+  },
+  'conv_1D_layer_2_filter': {
+    'values': [16, 32]
+  },
+  'conv_1D_layer_3_filter': {
+    'values': [16, 32]
+  },
+  'conv_1D_layer_1_kernel_size': {
+    'values': [5, 15]
+  },
+  'conv_1D_layer_2_kernel_size': {
+    'values': [5, 15]
+  },
+  'conv_1D_layer_3_kernel_size': {
+    'values': [5, 15]
+  },
+  'dropout_layer_1': {
+    'values': [5, 15]
+  },
+  'dense_layer_1_units': {
+    'values': [128, 256, 512, 1024]
+  },
+  'fold': {
+    'values': ['fold'] 
+  }
+}
