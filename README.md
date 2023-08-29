@@ -15,17 +15,8 @@ Today's trend is real-time and energy-efficient information extraction and proce
 
 **✏️ Note.** During the project's timeframe, retraining was performed using Edge Impulse Studio. In future implementations it is recommended to use the Profiling and Deploy [🔗 Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) (released April 4 2023 [Unveiling BYOM and the Edge Impulse Python SDK](https://edgeimpulse.com/blog/unveiling-the-new-edge-impulse-python-sdk)) combined with [🔗 Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases) AI developer platform. Some Python scripts can be found in [🔗 `./ei/profiling-deploy`](https://github.com/MLatE2dge/mlate2dge/tree/main/ei/profiling-deploy). These scripts can be used as a starting point for the integration into the embedded machine learning pipeline.
 
-Link to the Python code: [🔗 ML@E2dge](https://github.com/MLatE2dge/mlate2dge)<br>
+Link to the Python code: [🔗 ML@E2dge](https://github.com/MLatE2dge/mlate2dge) (MIT License)<br>
 
-```
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
 
 # 💻 Environment
 
