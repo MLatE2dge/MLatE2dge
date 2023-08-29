@@ -13,7 +13,7 @@ Today's trend is real-time and energy-efficient information extraction and proce
   <img src="/img/pipeline.png" alt="Pipeline"/>
 </p>
 
-**✏️ Note.** During the project's timeframe, retraining was performed using Edge Impulse Studio. In future implementations it is recommended to use the Profiling and Deploy (see [🔗 Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview)) combined with [🔗 Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases) AI developer platform, some Python scripts can be found in [🔗 `./ei/profiling-deploy`](https://github.com/MLatE2dge/mlate2dge/tree/main/ei/profiling-deploy). These scripts can be used as a starting point for the integration into the pipeline.
+**✏️ Note.** During the project's timeframe, retraining was performed using Edge Impulse Studio. In future implementations it is recommended to use the Profiling and Deploy [🔗 Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) (released April 4 2023 [Unveiling BYOM and the Edge Impulse Python SDK](https://edgeimpulse.com/blog/unveiling-the-new-edge-impulse-python-sdk)) combined with [🔗 Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases) AI developer platform. Some Python scripts can be found in [🔗 `./ei/profiling-deploy`](https://github.com/MLatE2dge/mlate2dge/tree/main/ei/profiling-deploy). These scripts can be used as a starting point for the integration into the pipeline.
 
 Link to the Python code: [🔗 ML@E2dge](https://github.com/MLatE2dge/mlate2dge)<br>
 
@@ -31,7 +31,7 @@ SOFTWARE.
 
 The development was performed on a 64-bit Intel® Core™ i9-10900K CPU (20 cores), 3.70 GHz, 128 GB RAM, and an NVIDIA GeForce RTX3080 GPU type.<br>  
 
-**Prerequisite:**<br><br>
+**Prerequisite**<br><br>
 [🔗 Edge Impulse Studio](https://edgeimpulse.com/)<br>
 [🔗 Weights & Biases platform](https://wandb.ai/)<br>
 
@@ -41,7 +41,7 @@ Create the environment using [🔗 conda](https://docs.conda.io/en/latest/minico
 $ conda env create -f conda.yaml
 ```
 
-**Recommended:**<br><br>
+**Recommended**<br><br>
 [🔗 Visual Studio Code](https://code.visualstudio.com/)<br>
 [🔗 Ubuntu 20.04.5 LTS (Focal Fossa)](https://cdimage.ubuntu.com/releases/focal/release/).
 
