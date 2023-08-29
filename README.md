@@ -65,8 +65,12 @@ $ conda env create -f conda.yaml
 [🔗 Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition)<br>
 [🔗 An Introduction to Statistical Learning](https://www.statlearning.com/)
 
+## 🎓 Open Education
+[🔗 Tiny Machine Learning Open Education Initiative (TinyMLedu)](http://tinyml.seas.harvard.edu/)
+
+<br>
 
 ---
 [🔗 Machine Learning @ the Extreme Edge](https://mlate2dge.github.io/) is a project supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences. 
 <br> 📆 Project duration: 1 December 2021 until 31 August 2023 (14 person-month).
-<br><div><p style="font-size: 11px"><a href="https://jrverbiest.github.io/">Principal Investigator: J.R. Verbiest</a></p></div>
+<br><div><p style="font-size: 11px"><a href="https://jrverbiest.github.io/">👨‍🔬 Principal Investigator: J.R. Verbiest</a></p></div>
