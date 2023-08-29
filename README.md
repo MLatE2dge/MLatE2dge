@@ -55,6 +55,8 @@ $ conda env create -f conda.yaml
 [🔗 Keras](https://keras.io/)<br>
 [🔗 pandas](https://pandas.pydata.org/)<br>
 [🔗 pingouin](https://pingouin-stats.org/build/html/index.html)<br>
+[🔗 matplotlib](https://matplotlib.org/)<br>
+[🔗 bokeh](http://bokeh.org/)
 
 
 ## 📚 Books
