@@ -13,9 +13,9 @@ Today's trend is real-time and energy-efficient information extraction and proce
   <img src="/img/pipeline.png" alt="Pipeline"/>
 </p>
 
-**✏️ Note.** During the project's timeframe, retraining was performed using Edge Impulse Studio. In future implementations it is recommended to use the Profiling and Deploy [🔗 Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) (released April 4 2023 [Unveiling BYOM and the Edge Impulse Python SDK](https://edgeimpulse.com/blog/unveiling-the-new-edge-impulse-python-sdk)) combined with [🔗 Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases) AI developer platform. Some Python scripts can be found in [🔗 `./ei/profiling-deploy`](https://github.com/MLatE2dge/mlate2dge/tree/main/ei/profiling-deploy). These scripts can be used as a starting point for the integration into the embedded machine learning pipeline.
+**✏️ Note.** During the project's timeframe, retraining was performed using Edge Impulse Studio. In future implementations it is recommended to use the Edge Impulse Profiling and Deploy [🔗 Edge Impulse Python SDK](https://docs.edgeimpulse.com/docs/tools/overview) (released April 4 2023 [Unveiling BYOM and the Edge Impulse Python SDK](https://edgeimpulse.com/blog/unveiling-the-new-edge-impulse-python-sdk)) combined with [🔗 Weights & Biases](https://docs.edgeimpulse.com/docs/integrations/weights-and-biases) AI developer platform. Some Python scripts can be found in [🔗 `./ei/profiling-deploy`](https://github.com/MLatE2dge/mlate2dge/tree/main/ei/profiling-deploy). These scripts can be used as a starting point for the integration into the embedded machine learning pipeline.
 
-Link to the Python code: [🔗 ML@E2dge](https://github.com/MLatE2dge/mlate2dge) (MIT License)<br>
+Link to the Python code: [🔗 mlate2dge](https://github.com/MLatE2dge/mlate2dge) (MIT License)<br>
 
 
 # 💻 Environment
@@ -60,9 +60,8 @@ $ conda env create -f conda.yaml
 [🔗 Tiny Machine Learning Open Education Initiative (TinyMLedu)](http://tinyml.seas.harvard.edu/)
 
 ---
-[🔗 Machine Learning @ the Extreme Edge](https://mlate2dge.github.io/) is a project supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences. 
-<br> 📆 Project duration: 1 December 2021 until 31 August 2023 (14 person-month).
+[🔗 Machine Learning @ the Extreme Edge](https://mlate2dge.github.io/) is a project supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences. 📆 Project duration: 1 December 2021 until 31 August 2023 (14 person-month).
 
-<div><p style="font-size: 11px"><a href="https://jrverbiest.github.io/">👨‍🔬 Principal Investigator: J.R. Verbiest</a></p></div>
+<div><p style="font-size: 12px"><a href="https://jrverbiest.github.io/">👨‍🔬 Principal Investigator: J.R. Verbiest</a></p></div>
 
 Last page update: 30 August 2023
