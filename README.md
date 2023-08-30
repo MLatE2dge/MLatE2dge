@@ -59,12 +59,10 @@ $ conda env create -f conda.yaml
 ## 🎓 Open Education
 [🔗 Tiny Machine Learning Open Education Initiative (TinyMLedu)](http://tinyml.seas.harvard.edu/)
 
-<br>
-
 ---
 [🔗 Machine Learning @ the Extreme Edge](https://mlate2dge.github.io/) is a project supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences. 
 <br> 📆 Project duration: 1 December 2021 until 31 August 2023 (14 person-month).
 
 <div><p style="font-size: 11px"><a href="https://jrverbiest.github.io/">👨‍🔬 Principal Investigator: J.R. Verbiest</a></p></div>
 
-Last page update: 29 August 2023
+Last page update: 30 August 2023
